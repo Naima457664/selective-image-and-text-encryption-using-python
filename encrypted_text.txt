@@ -1,0 +1,13 @@
+1. PROBLEM-SOLVING AGENTS
+Goal formulation, based on the current situation and the agent's performance measure, is the first step in 
+problem solving.
+Problem formulation is the process of deciding what actions and states to consider, given a goal. 
+An agent with several immediate options of unknown value can decide what to do by first examining future
+actionsthat eventually gAAAAABqIW1yFcKTH2Frfy2TysS_ThUtYgY2GBWc8Gk9_FbQn7kKGjoOlNPP4lp1EUmhWtjUF77nrZQvQFunnLwxSG74PAoitg== to states of known value.
+The process of looking for a sequence of actions that reaches the goal is called search.A search algorithm 
+takes a problem as input and returns a solution in the form of an action sequence. Once a solution is 
+found, the actions it recommends can be carried out. Thisis called the execution phase. Thus, a simple 
+“formulate, search, execute” design for the agent, as shown in Figure 3.1. After formulating a goal and 
+a problem to solve, the agent calls a search procedure to solve it. It then uses the solution to guide its 
+actions, doing whatever the solution recommends as the next thing to do—typically, the first action ofthe 
+sequence—and then removing
